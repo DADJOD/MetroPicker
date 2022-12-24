@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stations">
+        <item>Авиамоторная</item>
+        <item>Автозаводская</item>
+        <item>Академическая</item>
+        <item>Александровский сад</item>
+        <item>Алексеевская</item>
+        <item>Алтуфьево</item>
+        <item>Аннино</item>
+        <item>Арбатская (Арбатско-Покровская линия)</item>
+        <item>Арбатская (Филевская линия)</item>
+        <item>Аэропорт</item>
+        <item>Бабушкинская</item>
+        <item>Багратионовская</item>
+        <item>Баррикадная</item>
+        <item>Бауманская</item>
+        <item>Беговая</item>
+        <item>Белорусская</item>
+        <item>Беляево</item>
+        <item>Бибирево</item>
+        <item>Библиотека имени Ленина</item>
+        <item>Битцевский парк</item>
+        <item>Борисовская</item>
+        <item>Боровицкая</item>
+        <item>Ботанический сад</item>
+        <item>Братиславская</item>
+        <item>Бульвар адмирала Ушакова</item>
+        <item>Бульвар Дмитрия Донского</item>
+        <item>Бунинская аллея</item>
+        <item>Варшавская</item>
+        <item>ВДНХ</item>
+        <item>Владыкино</item>
+        <item>Водный стадион</item>
+        <item>Войковская</item>
+        <item>Волгоградский проспект</item>
+        <item>Волжская</item>
+        <item>Волоколамская</item>
+        <item>Воробьевы горы</item>
+        <item>Выставочная</item>
+        <item>Выхино</item>
+        <item>Деловой центр</item>
+        <item>Динамо</item>
+        <item>Дмитровская</item>
+        <item>Добрынинская</item>
+        <item>Домодедовская</item>
+        <item>Достоевская</item>
+        <item>Дубровка</item>
+        <item>Жулебино</item>
+        <item>Зябликово</item>
+        <item>Измайловская</item>
+        <item>Калужская</item>
+        <item>Кантемировская</item>
+        <item>Каховская</item>
+        <item>Каширская</item>
+        <item>Киевская</item>
+        <item>Китай-город</item>
+        <item>Кожуховская</item>
+        <item>Коломенская</item>
+        <item>Комсомольская</item>
+        <item>Коньково</item>
+        <item>Красногвардейская</item>
+        <item>Краснопресненская</item>
+        <item>Красносельская</item>
+        <item>Красные ворота</item>
+        <item>Крестьянская застава</item>
+        <item>Кропоткинская</item>
+        <item>Крылатское</item>
+        <item>Кузнецкий мост</item>
+        <item>Кузьминки</item>
+        <item>Кунцевская</item>
+        <item>Кутузовская</item>
+        <item>Ленинский проспект</item>
+        <item>Курская</item>
+        <item>Лубянка</item>
+        <item>Люблино</item>
+        <item>Марксистская</item>
+        <item>Марьина роща</item>
+        <item>Марьино</item>
+        <item>Маяковская</item>
+        <item>Медведково</item>
+        <item>Международная</item>
+        <item>Менделеевская</item>
+        <item>Митино</item>
+        <item>Молодежная</item>
+        <item>Мякинино</item>
+        <item>Нагатинская</item>
+        <item>Нагорная</item>
+        <item>Нахимовский проспект</item>
+        <item>Новогиреево</item>
+        <item>Новокузнецкая</item>
+        <item>Новослободская</item>
+        <item>Новоясеневская</item>
+        <item>Новые Черемушки</item>
+        <item>Октябрьская</item>
+        <item>Октябрьское поле</item>
+        <item>Орехово</item>
+        <item>Отрадное</item>
+        <item>Охотныйряд</item>
+        <item>Павелецкая</item>
+        <item>Парк культуры</item>
+        <item>Парк Победы</item>
+        <item>Партизанская</item>
+        <item>Первомайская</item>
+        <item>Перово</item>
+        <item>Петровско-Разумовская</item>
+        <item>Печатники</item>
+        <item>Пионерская</item>
+        <item>Планерная</item>
+        <item>Площадь Ильича</item>
+        <item>Площадь Революции</item>
+        <item>Полежаевская</item>
+        <item>Полянка</item>
+        <item>Пражская</item>
+        <item>Преображенская площадь</item>
+        <item>Пролетарская</item>
+        <item>Проспект Вернадского</item>
+        <item>Проспект Мира</item>
+        <item>Профсоюзная</item>
+        <item>Пушкинская</item>
+        <item>Речной вокзал</item>
+        <item>Рижская</item>
+        <item>Римская</item>
+        <item>Рязанский проспект</item>
+        <item>Савеловская</item>
+        <item>Свиблово</item>
+        <item>Севастопольская</item>
+        <item>Семеновская</item>
+        <item>Серпуховская</item>
+        <item>Славянский бульвар</item>
+        <item>Смоленская (Арбатско-Покровская линия)</item>
+        <item>Смоленская (Филевская линия)</item>
+        <item>Сокол</item>
+        <item>Сокольники</item>
+        <item>Спортивная</item>
+        <item>Сретенский бульвар</item>
+        <item>Строгино</item>
+        <item>Студенческая</item>
+        <item>Сухаревская</item>
+        <item>Сходненская</item>
+        <item>Таганская</item>
+        <item>Тверская</item>
+        <item>Театральная</item>
+        <item>Текстильщики</item>
+        <item>Теплый Стан</item>
+        <item>Тимирязевская</item>
+        <item>Третьяковская</item>
+        <item>Трубная</item>
+        <item>Тульская</item>
+        <item>Тургеневская</item>
+        <item>Тушинская</item>
+        <item>Улица 1905года</item>
+        <item>Улица Академика Янгеля</item>
+        <item>Улица Горчакова</item>
+        <item>Улица Подбельского</item>
+        <item>Улица Скобелевская</item>
+        <item>Улица Старокачаловская</item>
+        <item>Университет</item>
+        <item>Филевский парк</item>
+        <item>Фили</item>
+        <item>Фрунзенская</item>
+        <item>Царицыно</item>
+        <item>Цветной бульвар</item>
+        <item>Черкизовская</item>
+        <item>Чертановская</item>
+    </string-array>
+</resources>
